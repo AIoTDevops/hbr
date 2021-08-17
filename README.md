@@ -1,11 +1,11 @@
 # hbr
 
-[https://hbr.org/podcast/2021/01/what-kind-of-networker-are-you](https://hbr.org/podcast/2021/01/what-kind-of-networker-are-you)
-[https://hbr.org/podcast/2021/01/how-empathy-helps-bridge-generational-differences](https://hbr.org/podcast/2021/01/how-empathy-helps-bridge-generational-differences)
-[https://hbr.org/podcast/2021/01/goodbye-bureaucracy-hello-common-sense](https://hbr.org/podcast/2021/01/goodbye-bureaucracy-hello-common-sense)
-[https://hbr.org/podcast/2021/01/what-sets-family-businesses-apart](https://hbr.org/podcast/2021/01/what-sets-family-businesses-apart)
-[https://hbr.org/podcast/2021/02/how-many-managers-does-it-take-to-change-a-lightbulb](https://hbr.org/podcast/2021/02/how-many-managers-does-it-take-to-change-a-lightbulb)
-[]()
+- [https://hbr.org/podcast/2021/01/what-kind-of-networker-are-you](https://hbr.org/podcast/2021/01/what-kind-of-networker-are-you)
+- [https://hbr.org/podcast/2021/01/how-empathy-helps-bridge-generational-differences](https://hbr.org/podcast/2021/01/how-empathy-helps-bridge-generational-differences)
+- [https://hbr.org/podcast/2021/01/goodbye-bureaucracy-hello-common-sense](https://hbr.org/podcast/2021/01/goodbye-bureaucracy-hello-common-sense)
+- [https://hbr.org/podcast/2021/01/what-sets-family-businesses-apart](https://hbr.org/podcast/2021/01/what-sets-family-businesses-apart)
+- [https://hbr.org/podcast/2021/02/how-many-managers-does-it-take-to-change-a-lightbulb](https://hbr.org/podcast/2021/02/how-many-managers-does-it-take-to-change-a-lightbulb)
+- []()
 []()
 []()
 []()
